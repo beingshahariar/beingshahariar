@@ -93,7 +93,7 @@ Currently:
 
 ## 📂 Career / Academic Highlights
 
-### 📐 Smart Online Voting System
+### 📐 EVM Blockchain  Voting System (VoteBox)
 
 Designed a Smart Online Voting System by performing requirement analysis, UML modeling, database design, and interactive UI/UX prototyping.
 
