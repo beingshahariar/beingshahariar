@@ -1,5 +1,5 @@
 # Hi, I'm Shahariar Shakib 👋
-🚀 Software Developer | 💻 CSE Student | 🧠 Problem Solver | 🏛️ United International University
+🚀 Competitive Programmer | 💻 CSE Student | 🧠 Problem Solver | 🏛️ United International University
 
 ---
 
