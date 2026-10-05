@@ -76,6 +76,8 @@ An AI-powered career-development platform designed for university students, with
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beingshahariar&show_icons=true&theme=tokyonight" alt="Shahariar Shakib's GitHub statistics" />
+  </p>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingshahariar&layout=compact&theme=tokyonight" alt="Most used languages" />
 </p>
 
